@@ -1,0 +1,243 @@
+#jay{
+    width: 100%;
+    /*  height: 16.5cm; */
+}
+
+#bae{
+    width: 100%;
+     /* height: 15cm; */
+}
+/* #container{
+    padding: 2px 16px 2px 2px;
+    
+} */
+
+.navbar{
+    background-color: #75c71b;
+}
+
+h4{
+    text-align: center;
+    
+}
+
+h6{
+   text-align: justify;
+   
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+
+.btn{
+    background-color:#75c71b;
+    color: white;
+    border-radius: 0.1cm 0.1cm 0.1cm 0.1cm;
+    
+    
+
+}
+
+
+.footer{
+    background-color: #3E3E3C;
+    height: 8cm;
+    color: white;
+    font: normal;
+    
+}
+
+#fay{
+    width: 70px;
+}
+
+#jen{
+    width: 85%;
+}
+
+body{
+    background-color:#f9f9f9;
+    border-radius: 10px;
+}
+/* 
+.card-body:hover{
+    box-shadow: 0 5px 5px 0 rgba(155,154,154,0.2);
+    background-color: white;
+} */
+
+#fay{
+    width: 100%;
+}
+
+h5{
+    text-align: center;
+    color: #75c71b;
+    font-weight: bold;
+
+}
+
+#kay{
+     width: 100%;
+}
+
+h2{
+    color: #75c71b;
+    text-align: justify;
+   
+}
+
+h4{
+    text-align: justify;
+    font-weight: normal;
+    width: 90%;
+  
+}
+/* 
+.card-text{
+    width: 90%;
+} */
+
+#jan{
+    width: 90%;
+    align-items: center;
+}
+
+#jin{
+    width: 90%;
+    /* height: 100%; */
+}
+
+h1{
+    text-align: center;
+    color: #75c71b;
+}
+
+#jun{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#tan{
+    width: 100%;
+}
+
+
+
+#can{
+    width: 100%;
+}
+
+#fii{
+    text-align: justify;
+  
+    
+}
+
+
+#faa{
+    width: 60%;
+}
+
+
+#logo{
+    margin-left: 0.95%;
+}
+
+#gii{
+    text-align: center;
+    width: 100%;
+    
+}
+
+#tay{
+    width: 100%;
+}
+
+h8{
+    text-align: center;
+}
+
+
+#wee{
+    text-align: justify;
+    color: #75c71b;
+}
+
+#now{
+    font-weight: normal;
+}
+
+#vee{
+    width: 30%;
+
+}
+
+.btn1{
+    width: 5%;
+    height: 0.6cm;
+}
+
+
+/* login from starts*/
+
+/* 
+.form-row{
+    width: 40%;
+    text-align: justify;
+   
+} */
+
+a{
+  color: #75c71b;
+  text-align: center;
+}
+
+/* 
+.coo{
+           text-align: center;
+           width: 90%;
+           background-color: rgb(233,233,233);
+} */
+
+
+
+
+
+
+
+  
+  
+/* login form ends */
+
+
+#ffay{
+    text-align: center;
+    width: 120%;
+}
+/* 
+.card-text{
+    text-align: justify;
+    font-size: 100%;
+    
+} */
+
+
+#cee{
+    text-align: center;
+    /* color: #75c71b; */
+}
+/* 
+.con{
+     width: 50%;
+     text-align: center;
+     align-content: center;
+} */
+
